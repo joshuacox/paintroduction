@@ -1,6 +1,6 @@
 # Let's paint on tarpaper
 
-Today we are going to start with we are going to start with a piece of tarpaper, a brush, and choose three colors. 
+Today we are going to start with a piece of tarpaper, a brush, and choose three colors. 
 
 0. You are going to draw a curvy line from the top to the bottom starting anywhere at the top, and ending anywhere at the bottom, but it must curve and the line will bisect your canvas.  Now draw a second line parallel to your first line, ensure there is a space between these lines (1/8" - 1/2")
 
